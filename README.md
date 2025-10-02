@@ -67,12 +67,18 @@
   </a>
 </p>
 
-
 ---
 
 ### Featured Project
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deocoe&repo=SpringBootJwtAuthApi&theme=dracula&show_owner=true)](https://github.com/Deocoe/SpringBootJwtAuthApi)
+<p align="left">
+  <a href="https://github.com/Deocoe/SpringBootJwtAuthApi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deocoe&repo=SpringBootJwtAuthApi&theme=dracula&show_owner=true" />
+  </a>
+  <a href="https://github.com/Deocoe/Strassen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deocoe&repo=Strassen&theme=dracula&show_owner=true" />
+  </a>
+</p>
 
 ---
 
@@ -87,6 +93,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 
 
