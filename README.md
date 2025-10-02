@@ -6,7 +6,7 @@
 
 -   🎓 Atualmente cursando **Ciência da Computação** na Universidade Federal de Itajubá (UNIFEI).
 -   🚀 Apaixonado por desenvolvimento back-end, automação e pela criação de soluções robustas e seguras.
--   💡 Tenho experiência prática com **Java/Spring Boot** para construção de APIs RESTful e com **Python** para automação de processos.
+-   💡 Tenho experiência prática com **Java/Spring Boot** para construção de APIs RESTful e com **Python** para automação de processos. Também possuo conhecimento em C/C++ aplicado no desenvolvimento de sistemas embarcados e na análise de algoritmos.
 -   🌱 Buscando uma **oportunidade de estágio** para aplicar meus conhecimentos, aprender com uma equipe experiente e contribuir em projetos desafiadores.
 
 ---
@@ -93,6 +93,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 
 
